@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should verify snapshot with style 1`] = `
+<DocumentFragment>
+  <picture>
+    <source
+      srcset="logo.webp"
+      type="image/webp"
+    />
+    <source
+      srcset="logo.jpg"
+      type="image/jpeg"
+    />
+    <img
+      alt="test image"
+      src="logo.jpg"
+      style="width: 100%;"
+    />
+  </picture>
+</DocumentFragment>
+`;
+
+exports[`should verify snapshot without style 1`] = `
+<DocumentFragment>
+  <picture>
+    <source
+      srcset="logo.webp"
+      type="image/webp"
+    />
+    <source
+      srcset="logo.jpg"
+      type="image/jpeg"
+    />
+    <img
+      alt="test image"
+      src="logo.jpg"
+    />
+  </picture>
+</DocumentFragment>
+`;

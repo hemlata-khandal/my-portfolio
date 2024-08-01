@@ -1,0 +1,168 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should verify snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-eeo3ga"
+    id="certifications-section"
+  >
+    <h3
+      class="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom css-1oe6gg4-MuiTypography-root"
+    >
+      Certifications
+    </h3>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-6s1xft-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-12 MuiGrid-grid-md-6 css-kgax03-MuiGrid-root"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1v5z4dq-MuiPaper-root-MuiCard-root"
+          data-testid="certification-card"
+        >
+          <div
+            class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+          >
+            <div
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-1y15g74-MuiTypography-root"
+              data-testid="certification-title"
+            >
+              <a
+                class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1iwtne7-MuiTypography-root-MuiLink-root"
+                href="https://www.coursera.org/account/accomplishments/verify/6GPHWG8CB9H8"
+                rel="noreferrer"
+                style="text-decoration: none;"
+                target="_blank"
+              >
+                Generative AI for Everyone
+              </a>
+            </div>
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-b3lvtk-MuiTypography-root"
+            >
+              The world of AI has changed rapidly in the past 18 months. Large language models (LLMs) and other generative AI applications have taken the world by storm, and continue to evolve. Learnt how to utilize prompt engineering with the GPT-3.5 language model to classify and summarize restaurant reviews efficiently.
+            </p>
+          </div>
+          <hr
+            class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+          />
+          <div
+            class="MuiCardActions-root MuiCardActions-spacing css-1vbr7to-MuiCardActions-root"
+          >
+            <button
+              class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root Mui-disabled  css-1poohah-MuiButtonBase-root-MuiButton-root"
+              disabled=""
+              tabindex="-1"
+              type="button"
+            >
+              DeepLearning.AI | March 5, 2024
+            </button>
+            <a
+              class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+              href="https://www.coursera.org/account/accomplishments/verify/6GPHWG8CB9H8"
+              rel="noreferrer"
+              tabindex="0"
+              target="_blank"
+            >
+              View
+              <span
+                class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                  data-testid="ArrowForwardIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-12 MuiGrid-grid-md-6 css-kgax03-MuiGrid-root"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1v5z4dq-MuiPaper-root-MuiCard-root"
+          data-testid="certification-card"
+        >
+          <div
+            class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+          >
+            <div
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-1y15g74-MuiTypography-root"
+              data-testid="certification-title"
+            >
+              <a
+                class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1iwtne7-MuiTypography-root-MuiLink-root"
+                href="https://www.coursera.org/account/accomplishments/verify/5SFFMJ6PA5QU"
+                rel="noreferrer"
+                style="text-decoration: none;"
+                target="_blank"
+              >
+                Introduction to Generative AI
+              </a>
+            </div>
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-b3lvtk-MuiTypography-root"
+            >
+              This is an introductory level microlearning course aimed at explaining what Generative AI is, how it is used, and how it differs from traditional machine learning methods. It also covers Google Tools to help you develop your own Gen AI apps.
+            </p>
+          </div>
+          <hr
+            class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+          />
+          <div
+            class="MuiCardActions-root MuiCardActions-spacing css-1vbr7to-MuiCardActions-root"
+          >
+            <button
+              class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root Mui-disabled  css-1poohah-MuiButtonBase-root-MuiButton-root"
+              disabled=""
+              tabindex="-1"
+              type="button"
+            >
+              Google Cloud | February 25, 2024
+            </button>
+            <a
+              class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+              href="https://www.coursera.org/account/accomplishments/verify/5SFFMJ6PA5QU"
+              rel="noreferrer"
+              tabindex="0"
+              target="_blank"
+            >
+              View
+              <span
+                class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                  data-testid="ArrowForwardIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

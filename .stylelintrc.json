@@ -1,0 +1,21 @@
+{
+  "processors": ["stylelint-processor-styled-components"],
+  "extends": [
+    "stylelint-config-recommended",
+    "stylelint-config-standard-scss",
+    "stylelint-config-styled-components"
+  ],
+  "rules": {
+    "string-quotes": "double",
+    "selector-class-pattern": null,
+    "declaration-colon-newline-after": null,
+    "value-no-vendor-prefix": [
+      true,
+      {
+        "ignoreValues": [
+          "box"
+        ]
+      }
+    ]
+  }
+}

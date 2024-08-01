@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should verify the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-eeo3ga"
+    id="about-section"
+  >
+    <h3
+      class="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom css-1al5q4t-MuiTypography-root"
+    >
+      About Me
+    </h3>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-6s1xft-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-6 css-1spq2xo-MuiGrid-root"
+      >
+        <picture>
+          <source
+            srcset="test-file-stub"
+            type="image/webp"
+          />
+          <source
+            srcset="test-file-stub"
+            type="image/jpeg"
+          />
+          <img
+            alt="Hemlata Khandal"
+            src="test-file-stub"
+            style="width: 200px; height: 200px; position: absolute; top: 0px; left: 50%; transform: translate(-50%, 0); border: 5px solid #008073; border-radius: 50%;"
+          />
+        </picture>
+        <div
+          class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1r2vpgk-MuiPaper-root-MuiCard-root"
+        >
+          <div
+            class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+          >
+            <div
+              class="MuiTypography-root MuiTypography-h4 css-149xwtl-MuiTypography-root"
+            >
+              Hemlata Khandal
+            </div>
+            <p
+              class="MuiTypography-root MuiTypography-body1 css-1118u3c-MuiTypography-root"
+            >
+              Senior Consultant @ Capgemini
+            </p>
+          </div>
+          <div
+            class="MuiCardActions-root MuiCardActions-spacing css-p1d7ot-MuiCardActions-root"
+          >
+            <a
+              class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root  css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+              href="https://drive.google.com/file/d/1c5qxTzBdF1qFipc9di35EHsQXBfka3Ve/view"
+              rel="noreferrer"
+              tabindex="0"
+              target="_blank"
+            >
+              <span
+                class="MuiButton-startIcon MuiButton-iconSizeMedium css-1d6wzja-MuiButton-startIcon"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                  data-testid="CloudDownloadIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"
+                  />
+                </svg>
+              </span>
+              Resume
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-6 css-6dzwqk-MuiGrid-root"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-1oetjkv-MuiTypography-root"
+        >
+          I'm a seasoned Frontend Developer with 8 years of expertise in creating responsive and user-friendly web applications. I have a deep interest and passion for technology. I love writing and owning codes and enjoy working with people who will keep challenging you at every stage. I have strong problem solving, analytic, decision-making and excellent communication with interpersonal skills. I'm self-driven and motivated with the desire to work in a fast-paced, results-driven agile environment with varied responsibilities. I love to challenge myself to deliver these solutions with the highest quality.
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

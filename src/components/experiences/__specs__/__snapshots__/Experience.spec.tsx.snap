@@ -1,0 +1,567 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test experiences component verify snapshot for larger display 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-eeo3ga"
+    id="experiences-section"
+  >
+    <h3
+      class="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom css-1oe6gg4-MuiTypography-root"
+    >
+      Experiences
+    </h3>
+    <div
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1wqstqh-MuiPaper-root-MuiCard-root"
+    >
+      <div
+        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+      >
+        <div
+          class="MuiBox-root css-out6mg"
+        >
+          <picture>
+            <source
+              srcset="test-file-stub"
+              type="image/webp"
+            />
+            <source
+              srcset="test-file-stub"
+              type="image/jpeg"
+            />
+            <img
+              alt="Capgemini Logo"
+              src="test-file-stub"
+              style="height: 40px;"
+            />
+          </picture>
+          <div
+            class="MuiBox-root css-0"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle1 css-1wwkujw-MuiTypography-root"
+            >
+              Senior Consultant
+            </h6>
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2 css-37mko6-MuiTypography-root"
+            >
+              Gurugram, IN
+            </h6>
+          </div>
+        </div>
+        <hr
+          class="MuiDivider-root MuiDivider-fullWidth css-ctpjxq-MuiDivider-root"
+        />
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-1oetjkv-MuiTypography-root"
+        >
+          Capgemini SE is a French multinational information technology services and consulting company, headquartered in Paris, France.
+        </p>
+        <h6
+          class="MuiTypography-root MuiTypography-subtitle2 css-ati914-MuiTypography-root"
+        >
+          ACCOMPLISHMENTS
+        </h6>
+        <ul>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Experience in system analysis, design, workflow architecture, development, testing and maintenance of web applications.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Worked on REST API to create the services and tested on postman and bind the data in the view.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Used SVN and git for version control and JIRA for defect tracking.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Build a new E-commerce application from scratch including the design and development of the application using SOA services and Angular framework. This application was then used by the business to get their orders and send the orders to production department.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Implemented project using AGILE SCRUM methodology. Involved in daily stand up meetings and sprint meetings.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Developed applications using Angular, HTML5, CSS3, MVC framework and JavaScript.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Collaborated with team to fix various release bugs, UI audits and reviewed code changes of features and bugs to ensure code quality.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Worked on Cluster Migration of the applications from MobaXtrem to Portainer. Created YML files for the deployment process.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Worked on existing application to implement new features using Angular, HTML, CSS and typescript.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Leading a successful team to deliver the high-quality front end solutions.
+            </p>
+          </li>
+        </ul>
+      </div>
+      <hr
+        class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+      />
+      <div
+        class="MuiCardActions-root MuiCardActions-spacing css-1t6e9jv-MuiCardActions-root"
+      >
+        <button
+          class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root Mui-disabled  css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          Apr 2022 - Present
+        </button>
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1wqstqh-MuiPaper-root-MuiCard-root"
+    >
+      <div
+        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+      >
+        <div
+          class="MuiBox-root css-out6mg"
+        >
+          <picture>
+            <source
+              srcset="test-file-stub"
+              type="image/webp"
+            />
+            <source
+              srcset="test-file-stub"
+              type="image/jpeg"
+            />
+            <img
+              alt="Majestic Technosoft Pvt. Ltd. Logo"
+              src="test-file-stub"
+              style="height: 40px;"
+            />
+          </picture>
+          <div
+            class="MuiBox-root css-0"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle1 css-1wwkujw-MuiTypography-root"
+            >
+              Full Stack Developer
+            </h6>
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2 css-37mko6-MuiTypography-root"
+            >
+              Jaipur, IN
+            </h6>
+          </div>
+        </div>
+        <hr
+          class="MuiDivider-root MuiDivider-fullWidth css-ctpjxq-MuiDivider-root"
+        />
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-1oetjkv-MuiTypography-root"
+        >
+          Majestic Technosoft has in house team of specialists with passion for technology and keep an eye on latest web development technology, design and marketing strategies.
+        </p>
+        <h6
+          class="MuiTypography-root MuiTypography-subtitle2 css-ati914-MuiTypography-root"
+        >
+          ACCOMPLISHMENTS
+        </h6>
+        <ul>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Hands on experience in design and development for websites (HTML, CSS, Javascript, Wordpress, Bootstrap) and applications (Ionic framework , Angular JS).
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Developed over 20 dynamic websites using Angular and Laravel.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Improved website load time by 25% through optimization techniques.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Worked on building a new POS Application from scratch using Ionic and Angular. Designed the Front End of the application using Ionic, HTML and CSS.
+            </p>
+          </li>
+        </ul>
+      </div>
+      <hr
+        class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+      />
+      <div
+        class="MuiCardActions-root MuiCardActions-spacing css-1t6e9jv-MuiCardActions-root"
+      >
+        <button
+          class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root Mui-disabled  css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          Jun 2016 - Mar 2022
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`test experiences component verify snapshot for tablet or lesser size display 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-eeo3ga"
+    id="experiences-section"
+  >
+    <h3
+      class="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom css-1oe6gg4-MuiTypography-root"
+    >
+      Experiences
+    </h3>
+    <div
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1wqstqh-MuiPaper-root-MuiCard-root"
+    >
+      <div
+        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+      >
+        <div
+          class="MuiBox-root css-out6mg"
+        >
+          <picture>
+            <source
+              srcset="test-file-stub"
+              type="image/webp"
+            />
+            <source
+              srcset="test-file-stub"
+              type="image/jpeg"
+            />
+            <img
+              alt="Capgemini Logo"
+              src="test-file-stub"
+              style="height: 40px;"
+            />
+          </picture>
+          <div
+            class="MuiBox-root css-0"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle1 css-1wwkujw-MuiTypography-root"
+            >
+              Senior Consultant
+            </h6>
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2 css-37mko6-MuiTypography-root"
+            >
+              Gurugram, IN
+            </h6>
+          </div>
+        </div>
+        <hr
+          class="MuiDivider-root MuiDivider-fullWidth css-ctpjxq-MuiDivider-root"
+        />
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-1oetjkv-MuiTypography-root"
+        >
+          Capgemini SE is a French multinational information technology services and consulting company, headquartered in Paris, France.
+        </p>
+        <h6
+          class="MuiTypography-root MuiTypography-subtitle2 css-ati914-MuiTypography-root"
+        >
+          ACCOMPLISHMENTS
+        </h6>
+        <ul>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Experience in system analysis, design, workflow architecture, development, testing and maintenance of web applications.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Worked on REST API to create the services and tested on postman and bind the data in the view.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Used SVN and git for version control and JIRA for defect tracking.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Build a new E-commerce application from scratch including the design and development of the application using SOA services and Angular framework. This application was then used by the business to get their orders and send the orders to production department.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Implemented project using AGILE SCRUM methodology. Involved in daily stand up meetings and sprint meetings.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Developed applications using Angular, HTML5, CSS3, MVC framework and JavaScript.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Collaborated with team to fix various release bugs, UI audits and reviewed code changes of features and bugs to ensure code quality.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Worked on Cluster Migration of the applications from MobaXtrem to Portainer. Created YML files for the deployment process.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Worked on existing application to implement new features using Angular, HTML, CSS and typescript.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Leading a successful team to deliver the high-quality front end solutions.
+            </p>
+          </li>
+        </ul>
+      </div>
+      <hr
+        class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+      />
+      <div
+        class="MuiCardActions-root MuiCardActions-spacing css-1t6e9jv-MuiCardActions-root"
+      >
+        <button
+          class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root Mui-disabled  css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          Apr 2022 - Present
+        </button>
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1wqstqh-MuiPaper-root-MuiCard-root"
+    >
+      <div
+        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+      >
+        <div
+          class="MuiBox-root css-out6mg"
+        >
+          <picture>
+            <source
+              srcset="test-file-stub"
+              type="image/webp"
+            />
+            <source
+              srcset="test-file-stub"
+              type="image/jpeg"
+            />
+            <img
+              alt="Majestic Technosoft Pvt. Ltd. Logo"
+              src="test-file-stub"
+              style="height: 40px;"
+            />
+          </picture>
+          <div
+            class="MuiBox-root css-0"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle1 css-1wwkujw-MuiTypography-root"
+            >
+              Full Stack Developer
+            </h6>
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2 css-37mko6-MuiTypography-root"
+            >
+              Jaipur, IN
+            </h6>
+          </div>
+        </div>
+        <hr
+          class="MuiDivider-root MuiDivider-fullWidth css-ctpjxq-MuiDivider-root"
+        />
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-1oetjkv-MuiTypography-root"
+        >
+          Majestic Technosoft has in house team of specialists with passion for technology and keep an eye on latest web development technology, design and marketing strategies.
+        </p>
+        <h6
+          class="MuiTypography-root MuiTypography-subtitle2 css-ati914-MuiTypography-root"
+        >
+          ACCOMPLISHMENTS
+        </h6>
+        <ul>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Hands on experience in design and development for websites (HTML, CSS, Javascript, Wordpress, Bootstrap) and applications (Ionic framework , Angular JS).
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Developed over 20 dynamic websites using Angular and Laravel.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Improved website load time by 25% through optimization techniques.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Worked on building a new POS Application from scratch using Ionic and Angular. Designed the Front End of the application using Ionic, HTML and CSS.
+            </p>
+          </li>
+        </ul>
+      </div>
+      <hr
+        class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+      />
+      <div
+        class="MuiCardActions-root MuiCardActions-spacing css-1t6e9jv-MuiCardActions-root"
+      >
+        <button
+          class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root Mui-disabled  css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          Jun 2016 - Mar 2022
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

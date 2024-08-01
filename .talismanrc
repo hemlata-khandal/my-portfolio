@@ -1,0 +1,5 @@
+scopeconfig:
+  - scope: node
+allowed_patterns:
+- key
+- src

@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`verify snapshot for divider in dark mode 1`] = `
+<DocumentFragment>
+  .c0 {
+  height: 0.5px;
+  background: #000;
+  background: linear-gradient( to left, rgb(255 255 255) 0%, rgb(50 50 50) 50%, rgb(255 255 255) 100% );
+}
+
+.c0::before {
+  position: relative;
+  float: left;
+  background: linear-gradient( to right, rgb(200 200 200 / 0%), rgb(200 200 200 / 100%) 50% );
+  margin-top: 2px;
+  width: 50%;
+  height: 0.5px;
+  content: "";
+}
+
+.c0::after {
+  position: relative;
+  float: right;
+  background: linear-gradient( to left, rgb(100 200 200 / 0%), rgb(200 200 200 / 100%) 50% );
+  margin-top: 2px;
+  width: 50%;
+  height: 0.5px;
+  content: "";
+}
+
+<div
+    class="MuiBox-root css-1n2mv2k"
+  >
+    <div
+      class="MuiBox-root css-1x97c6v"
+    >
+      <div
+        class="c0"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`verify snapshot for divider in light mode 1`] = `
+<DocumentFragment>
+  .c0 {
+  height: 0.5px;
+  background: #fff;
+  background: linear-gradient( to left, rgb(90 90 90) 0%, rgb(255 255 255) 50%, rgb(90 90 90) 100% );
+}
+
+.c0::before {
+  position: relative;
+  float: left;
+  background: linear-gradient( to right, rgb(100 100 100 / 0%), rgb(100 100 100 / 100%) 50% );
+  margin-top: 2px;
+  width: 50%;
+  height: 0.5px;
+  content: "";
+}
+
+.c0::after {
+  position: relative;
+  float: right;
+  background: linear-gradient( to left, rgba(100 100 100 / 0%), rgba(100 100 100 / 100%) 50% );
+  margin-top: 2px;
+  width: 50%;
+  height: 0.5px;
+  content: "";
+}
+
+<div
+    class="MuiBox-root css-1n2mv2k"
+  >
+    <div
+      class="MuiBox-root css-a6rva7"
+    >
+      <div
+        class="c0"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

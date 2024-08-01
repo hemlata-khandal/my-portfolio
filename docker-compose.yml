@@ -1,0 +1,9 @@
+version: '3'
+services:
+  hemlata-portfolio-ui:
+    container_name: hemlata-portfolio
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"

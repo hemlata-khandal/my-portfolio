@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should verify the snapshot 1`] = `
+<DocumentFragment>
+  .c0 {
+  height: 100vh;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  background-size: cover;
+}
+
+.c2 {
+  position: absolute;
+  width: calc(100% - 240px);
+  padding: 200px 72px 72px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  z-index: 5;
+}
+
+.c4 {
+  font-size: 3rem;
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000;
+}
+
+.c5 {
+  background-color: #008073;
+  color: white;
+  padding: 8px;
+}
+
+.c1 {
+  position: absolute;
+  width: calc(100% - 240px);
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  z-index: 3;
+  height: 100vh;
+  background-image: url(test-file-stub);
+  -webkit-filter: blur(8px);
+  filter: blur(8px);
+  background-position: center;
+}
+
+.c3 {
+  font-size: 5rem;
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000;
+}
+
+@media (max-width:600px) {
+  .c2 {
+    width: 100%;
+    padding: 200px 16px 16px;
+  }
+}
+
+@media (max-width:600px) {
+  .c4 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width:600px) {
+  .c1 {
+    width: 100%;
+  }
+}
+
+@media (max-width:600px) {
+  .c3 {
+    font-size: 3.5rem;
+  }
+}
+
+<section
+    class="c0"
+  >
+    <div
+      class="c1"
+    />
+    <div
+      class="c2"
+    >
+      <h5
+        class="MuiTypography-root MuiTypography-h5 c3 css-ag7rrr-MuiTypography-root"
+      >
+        Hemlata Khandal
+      </h5>
+      <p
+        class="MuiTypography-root MuiTypography-body1 c4 css-ahj2mt-MuiTypography-root"
+      >
+        I'm a Software
+        <span
+          class="c5 positions"
+        />
+        <span
+          aria-hidden="true"
+          class="typed-cursor"
+        />
+      </p>
+    </div>
+  </section>
+</DocumentFragment>
+`;
