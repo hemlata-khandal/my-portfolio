@@ -7,48 +7,50 @@ exports[`should verify snapshot 1`] = `
     id="contact-me-section"
   >
     <div
-      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-1cc0m9b-MuiGrid-root"
+      class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row MuiGrid-spacing-xs-2 css-y818wo-MuiGrid-root"
     >
       <div
-        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-lg-6 css-1o0ho46-MuiGrid-root"
+        class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-lg-6 MuiGrid-grid-sm-6 MuiGrid-grid-xs-12 css-1ni33ps-MuiGrid-root"
       >
         <a
-          class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-s5jmrt-MuiTypography-root-MuiLink-root"
+          class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1tbkkan-MuiTypography-root-MuiLink-root"
           href="mailto:hemlatakhandal95@gmail.com"
           rel="noreferrer"
+          style="--Link-underlineColor: rgba(255, 255, 255, 0.4);"
           target="_blank"
         >
           <svg
             aria-hidden="true"
-            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
             data-testid="EmailIcon"
             focusable="false"
             viewBox="0 0 24 24"
           >
             <path
-              d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"
+              d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2m0 4-8 5-8-5V6l8 5 8-5z"
             />
           </svg>
            
           <p
-            class="MuiTypography-root MuiTypography-body1 css-3hfxt3-MuiTypography-root"
+            class="MuiTypography-root MuiTypography-body1 css-1jov4sb-MuiTypography-root"
           >
             hemlatakhandal95@gmail.com
           </p>
         </a>
       </div>
       <div
-        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-lg-6 css-1o0ho46-MuiGrid-root"
+        class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-lg-6 MuiGrid-grid-sm-6 MuiGrid-grid-xs-12 css-1ni33ps-MuiGrid-root"
       >
         <a
-          class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-s5jmrt-MuiTypography-root-MuiLink-root"
+          class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1tbkkan-MuiTypography-root-MuiLink-root"
           href="https://www.linkedin.com/in/hemlatakhandal/"
           rel="noreferrer"
+          style="--Link-underlineColor: rgba(255, 255, 255, 0.4);"
           target="_blank"
         >
           <svg
             aria-hidden="true"
-            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
             data-testid="LinkedInIcon"
             focusable="false"
             viewBox="0 0 24 24"
@@ -59,7 +61,7 @@ exports[`should verify snapshot 1`] = `
           </svg>
            
           <p
-            class="MuiTypography-root MuiTypography-body1 css-3hfxt3-MuiTypography-root"
+            class="MuiTypography-root MuiTypography-body1 css-1jov4sb-MuiTypography-root"
           >
             /hemlatakhandal
           </p>
@@ -67,19 +69,19 @@ exports[`should verify snapshot 1`] = `
       </div>
     </div>
     <div
-      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded css-9z0lrs-MuiPaper-root"
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded css-f8e46r-MuiPaper-root"
     >
       <p
-        class="MuiTypography-root MuiTypography-body2 css-184vs5g-MuiTypography-root"
+        class="MuiTypography-root MuiTypography-body2 css-26bqqa-MuiTypography-root"
       >
         All third-party trademarks (including logos and icons) referenced in this site remain the property of their respective owners. All references in this site to third party trademarks are to identify the corresponding third party goods and/or services and intended to constitute nominative fair use under applicable trademark laws.
       </p>
     </div>
     <hr
-      class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+      class="MuiDivider-root MuiDivider-fullWidth css-1jpc804-MuiDivider-root"
     />
     <p
-      class="MuiTypography-root MuiTypography-body2 css-13z6ubz-MuiTypography-root"
+      class="MuiTypography-root MuiTypography-body2 css-4i1f7z-MuiTypography-root"
     >
       © 2024 Hemlata Khandal | All Right Reserved |  v1.2.1
     </p>

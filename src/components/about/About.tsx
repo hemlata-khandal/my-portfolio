@@ -35,7 +35,7 @@ const About = forwardRef((_, ref) => (
     </Typography>
 
     <Grid container spacing={2} justifyContent="center" alignItems="center">
-      <Grid item sm={6} sx={{ position: "relative" }}>
+      <Grid size={{ sm: 6 }} sx={{ position: "relative" }}>
         <AdvanceImg
           altText="Hemlata Khandal"
           srcWebp={ProfilePicWebp}
@@ -81,7 +81,7 @@ const About = forwardRef((_, ref) => (
           </>
         </Card>
       </Grid>
-      <Grid item sm={6}>
+      <Grid size={{ sm: 6 }}>
         <Typography textAlign="justify">
           I&apos;m a seasoned Frontend Developer with 8 years of expertise in
           creating responsive and user-friendly web applications. I have a deep

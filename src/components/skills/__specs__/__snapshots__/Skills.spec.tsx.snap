@@ -7,29 +7,29 @@ exports[`should verify snapshot 1`] = `
     id="skills-section"
   >
     <h3
-      class="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom css-1oe6gg4-MuiTypography-root"
+      class="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom css-17uns2e-MuiTypography-root"
     >
       Skills
     </h3>
     <div
-      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-p86gk6-MuiPaper-root-MuiCard-root"
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-134lpog-MuiPaper-root-MuiCard-root"
     >
       <div
-        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
       >
         <h5
-          class="MuiTypography-root MuiTypography-h5 css-1invrju-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-h5 css-5wi9gl-MuiTypography-root"
         >
           Front-End
         </h5>
         <hr
-          class="MuiDivider-root MuiDivider-fullWidth css-ctpjxq-MuiDivider-root"
+          class="MuiDivider-root MuiDivider-fullWidth css-zzw4lh-MuiDivider-root"
         />
         <div
-          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root"
+          class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row MuiGrid-spacing-xs-2 css-zjhuaj-MuiGrid-root"
         >
           <div
-            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-126zddl-MuiGrid-root"
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
           >
             <div
               class="MuiBox-root css-1cojkpq"
@@ -51,13 +51,13 @@ exports[`should verify snapshot 1`] = `
               </picture>
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body1 css-1uwgr7b-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
             >
               Angular 9
             </p>
           </div>
           <div
-            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-126zddl-MuiGrid-root"
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
           >
             <div
               class="MuiBox-root css-1cojkpq"
@@ -79,13 +79,13 @@ exports[`should verify snapshot 1`] = `
               </picture>
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body1 css-1uwgr7b-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
             >
               HTML5
             </p>
           </div>
           <div
-            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-126zddl-MuiGrid-root"
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
           >
             <div
               class="MuiBox-root css-1cojkpq"
@@ -107,13 +107,13 @@ exports[`should verify snapshot 1`] = `
               </picture>
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body1 css-1uwgr7b-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
             >
               CSS3
             </p>
           </div>
           <div
-            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-126zddl-MuiGrid-root"
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
           >
             <div
               class="MuiBox-root css-1cojkpq"
@@ -135,7 +135,7 @@ exports[`should verify snapshot 1`] = `
               </picture>
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body1 css-1uwgr7b-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
             >
               Material Design
             </p>
@@ -144,24 +144,24 @@ exports[`should verify snapshot 1`] = `
       </div>
     </div>
     <div
-      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-p86gk6-MuiPaper-root-MuiCard-root"
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-134lpog-MuiPaper-root-MuiCard-root"
     >
       <div
-        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
       >
         <h5
-          class="MuiTypography-root MuiTypography-h5 css-1invrju-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-h5 css-5wi9gl-MuiTypography-root"
         >
           Back-End
         </h5>
         <hr
-          class="MuiDivider-root MuiDivider-fullWidth css-ctpjxq-MuiDivider-root"
+          class="MuiDivider-root MuiDivider-fullWidth css-zzw4lh-MuiDivider-root"
         />
         <div
-          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root"
+          class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row MuiGrid-spacing-xs-2 css-zjhuaj-MuiGrid-root"
         >
           <div
-            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-126zddl-MuiGrid-root"
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
           >
             <div
               class="MuiBox-root css-1cojkpq"
@@ -183,7 +183,7 @@ exports[`should verify snapshot 1`] = `
               </picture>
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body1 css-1uwgr7b-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
             >
               Core PHP
             </p>
@@ -192,24 +192,24 @@ exports[`should verify snapshot 1`] = `
       </div>
     </div>
     <div
-      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-p86gk6-MuiPaper-root-MuiCard-root"
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-134lpog-MuiPaper-root-MuiCard-root"
     >
       <div
-        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
       >
         <h5
-          class="MuiTypography-root MuiTypography-h5 css-1invrju-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-h5 css-5wi9gl-MuiTypography-root"
         >
           Programming Languages
         </h5>
         <hr
-          class="MuiDivider-root MuiDivider-fullWidth css-ctpjxq-MuiDivider-root"
+          class="MuiDivider-root MuiDivider-fullWidth css-zzw4lh-MuiDivider-root"
         />
         <div
-          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root"
+          class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row MuiGrid-spacing-xs-2 css-zjhuaj-MuiGrid-root"
         >
           <div
-            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-126zddl-MuiGrid-root"
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
           >
             <div
               class="MuiBox-root css-1cojkpq"
@@ -231,13 +231,13 @@ exports[`should verify snapshot 1`] = `
               </picture>
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body1 css-1uwgr7b-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
             >
               JavaScript
             </p>
           </div>
           <div
-            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-126zddl-MuiGrid-root"
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
           >
             <div
               class="MuiBox-root css-1cojkpq"
@@ -259,7 +259,7 @@ exports[`should verify snapshot 1`] = `
               </picture>
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body1 css-1uwgr7b-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
             >
               TypeScript
             </p>
@@ -268,24 +268,24 @@ exports[`should verify snapshot 1`] = `
       </div>
     </div>
     <div
-      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-p86gk6-MuiPaper-root-MuiCard-root"
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-134lpog-MuiPaper-root-MuiCard-root"
     >
       <div
-        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
       >
         <h5
-          class="MuiTypography-root MuiTypography-h5 css-1invrju-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-h5 css-5wi9gl-MuiTypography-root"
         >
           Mobile
         </h5>
         <hr
-          class="MuiDivider-root MuiDivider-fullWidth css-ctpjxq-MuiDivider-root"
+          class="MuiDivider-root MuiDivider-fullWidth css-zzw4lh-MuiDivider-root"
         />
         <div
-          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root"
+          class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row MuiGrid-spacing-xs-2 css-zjhuaj-MuiGrid-root"
         >
           <div
-            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-126zddl-MuiGrid-root"
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
           >
             <div
               class="MuiBox-root css-1cojkpq"
@@ -307,7 +307,7 @@ exports[`should verify snapshot 1`] = `
               </picture>
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body1 css-1uwgr7b-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
             >
               Ionic 4
             </p>
@@ -316,24 +316,24 @@ exports[`should verify snapshot 1`] = `
       </div>
     </div>
     <div
-      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-p86gk6-MuiPaper-root-MuiCard-root"
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-134lpog-MuiPaper-root-MuiCard-root"
     >
       <div
-        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
       >
         <h5
-          class="MuiTypography-root MuiTypography-h5 css-1invrju-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-h5 css-5wi9gl-MuiTypography-root"
         >
           Databases
         </h5>
         <hr
-          class="MuiDivider-root MuiDivider-fullWidth css-ctpjxq-MuiDivider-root"
+          class="MuiDivider-root MuiDivider-fullWidth css-zzw4lh-MuiDivider-root"
         />
         <div
-          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root"
+          class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row MuiGrid-spacing-xs-2 css-zjhuaj-MuiGrid-root"
         >
           <div
-            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-126zddl-MuiGrid-root"
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
           >
             <div
               class="MuiBox-root css-1cojkpq"
@@ -355,13 +355,13 @@ exports[`should verify snapshot 1`] = `
               </picture>
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body1 css-1uwgr7b-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
             >
               MySQL
             </p>
           </div>
           <div
-            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-126zddl-MuiGrid-root"
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
           >
             <div
               class="MuiBox-root css-1cojkpq"
@@ -383,7 +383,7 @@ exports[`should verify snapshot 1`] = `
               </picture>
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body1 css-1uwgr7b-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
             >
               MongoDB
             </p>
@@ -392,24 +392,24 @@ exports[`should verify snapshot 1`] = `
       </div>
     </div>
     <div
-      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-p86gk6-MuiPaper-root-MuiCard-root"
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-134lpog-MuiPaper-root-MuiCard-root"
     >
       <div
-        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
       >
         <h5
-          class="MuiTypography-root MuiTypography-h5 css-1invrju-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-h5 css-5wi9gl-MuiTypography-root"
         >
           Cloud
         </h5>
         <hr
-          class="MuiDivider-root MuiDivider-fullWidth css-ctpjxq-MuiDivider-root"
+          class="MuiDivider-root MuiDivider-fullWidth css-zzw4lh-MuiDivider-root"
         />
         <div
-          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root"
+          class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row MuiGrid-spacing-xs-2 css-zjhuaj-MuiGrid-root"
         >
           <div
-            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-126zddl-MuiGrid-root"
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
           >
             <div
               class="MuiBox-root css-1cojkpq"
@@ -431,7 +431,7 @@ exports[`should verify snapshot 1`] = `
               </picture>
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body1 css-1uwgr7b-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
             >
               Firebase
             </p>
@@ -440,24 +440,24 @@ exports[`should verify snapshot 1`] = `
       </div>
     </div>
     <div
-      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-p86gk6-MuiPaper-root-MuiCard-root"
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-134lpog-MuiPaper-root-MuiCard-root"
     >
       <div
-        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
       >
         <h5
-          class="MuiTypography-root MuiTypography-h5 css-1invrju-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-h5 css-5wi9gl-MuiTypography-root"
         >
           DevOps Tools
         </h5>
         <hr
-          class="MuiDivider-root MuiDivider-fullWidth css-ctpjxq-MuiDivider-root"
+          class="MuiDivider-root MuiDivider-fullWidth css-zzw4lh-MuiDivider-root"
         />
         <div
-          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root"
+          class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row MuiGrid-spacing-xs-2 css-zjhuaj-MuiGrid-root"
         >
           <div
-            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-126zddl-MuiGrid-root"
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
           >
             <div
               class="MuiBox-root css-1cojkpq"
@@ -479,7 +479,7 @@ exports[`should verify snapshot 1`] = `
               </picture>
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body1 css-1uwgr7b-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
             >
               Docker
             </p>
@@ -488,31 +488,31 @@ exports[`should verify snapshot 1`] = `
       </div>
     </div>
     <div
-      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-p86gk6-MuiPaper-root-MuiCard-root"
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-134lpog-MuiPaper-root-MuiCard-root"
     >
       <div
-        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
       >
         <h5
-          class="MuiTypography-root MuiTypography-h5 css-1invrju-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-h5 css-5wi9gl-MuiTypography-root"
         >
           Other
         </h5>
         <hr
-          class="MuiDivider-root MuiDivider-fullWidth css-ctpjxq-MuiDivider-root"
+          class="MuiDivider-root MuiDivider-fullWidth css-zzw4lh-MuiDivider-root"
         />
         <div
-          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root"
+          class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row MuiGrid-spacing-xs-2 css-zjhuaj-MuiGrid-root"
         >
           <div
-            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-126zddl-MuiGrid-root"
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
           >
             <div
               class="MuiBox-root css-1cojkpq"
             >
               <svg
                 aria-hidden="true"
-                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1u10onu-MuiSvgIcon-root"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-11daolh-MuiSvgIcon-root"
                 data-testid="GitHubIcon"
                 focusable="false"
                 viewBox="0 0 24 24"
@@ -523,7 +523,7 @@ exports[`should verify snapshot 1`] = `
               </svg>
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body1 css-1uwgr7b-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
             >
               Github
             </p>

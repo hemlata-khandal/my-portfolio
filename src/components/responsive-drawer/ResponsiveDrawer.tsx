@@ -3,11 +3,11 @@ import Box from "@mui/material/Box";
 import CssBaseline from "@mui/material/CssBaseline";
 import Drawer from "@mui/material/Drawer";
 import List from "@mui/material/List";
-import ListItem from "@mui/material/ListItem";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
 import { CloudDownload } from "@mui/icons-material";
 import { Divider, Link, useMediaQuery, useTheme } from "@mui/material";
+import ListItemButton from "@mui/material/ListItemButton";
 import CustomAppBar from "../app-bar/CustomAppBar";
 import Logo from "../../assets/images/logo.png";
 import LogoWebp from "../../assets/images/logo.webp";
@@ -63,8 +63,7 @@ const ResponsiveDrawer: React.FunctionComponent<ResponsiveDrawerProps> = (
       <Divider />
       <List>
         {drawerListItems.map((drawerListItem, index) => (
-          <ListItem
-            button
+          <ListItemButton
             key={drawerListItem.id}
             data-testid={drawerListItem.id}
             onClick={() => handleMenuItemClick(`${drawerListItem.id}-section`)}
@@ -72,10 +71,9 @@ const ResponsiveDrawer: React.FunctionComponent<ResponsiveDrawerProps> = (
           >
             <ListItemIcon>{drawerListItem.icon}</ListItemIcon>
             <ListItemText primary={drawerListItem.displayText} />
-          </ListItem>
+          </ListItemButton>
         ))}
-        <ListItem
-          button
+        <ListItemButton
           key="resume"
           component={Link}
           rel="noopener"
@@ -86,7 +84,7 @@ const ResponsiveDrawer: React.FunctionComponent<ResponsiveDrawerProps> = (
             <CloudDownload />
           </ListItemIcon>
           <ListItemText primary="Resume" />
-        </ListItem>
+        </ListItemButton>
       </List>
     </div>
   );

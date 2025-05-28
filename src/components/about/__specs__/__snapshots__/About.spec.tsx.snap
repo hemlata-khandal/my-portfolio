@@ -7,15 +7,15 @@ exports[`should verify the snapshot 1`] = `
     id="about-section"
   >
     <h3
-      class="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom css-1al5q4t-MuiTypography-root"
+      class="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom css-e6fvwi-MuiTypography-root"
     >
       About Me
     </h3>
     <div
-      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-6s1xft-MuiGrid-root"
+      class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row MuiGrid-spacing-xs-2 css-19bn53y-MuiGrid-root"
     >
       <div
-        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-6 css-1spq2xo-MuiGrid-root"
+        class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-sm-6 css-1xuzxa5-MuiGrid-root"
       >
         <picture>
           <source
@@ -33,60 +33,57 @@ exports[`should verify the snapshot 1`] = `
           />
         </picture>
         <div
-          class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1r2vpgk-MuiPaper-root-MuiCard-root"
+          class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-7abs5c-MuiPaper-root-MuiCard-root"
         >
           <div
-            class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+            class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
           >
             <div
-              class="MuiTypography-root MuiTypography-h4 css-149xwtl-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-h4 css-1qv4sbo-MuiTypography-root"
             >
               Hemlata Khandal
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body1 css-1118u3c-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body1 css-yhib77-MuiTypography-root"
             >
               Senior Consultant @ Capgemini
             </p>
           </div>
           <div
-            class="MuiCardActions-root MuiCardActions-spacing css-p1d7ot-MuiCardActions-root"
+            class="MuiCardActions-root MuiCardActions-spacing css-fyn66j-MuiCardActions-root"
           >
             <a
-              class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root  css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+              class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary css-1blvszr-MuiButtonBase-root-MuiButton-root"
               href="https://drive.google.com/file/d/1c5qxTzBdF1qFipc9di35EHsQXBfka3Ve/view"
               rel="noreferrer"
               tabindex="0"
               target="_blank"
             >
               <span
-                class="MuiButton-startIcon MuiButton-iconSizeMedium css-1d6wzja-MuiButton-startIcon"
+                class="MuiButton-icon MuiButton-startIcon MuiButton-iconSizeMedium css-1sh91j5-MuiButton-startIcon"
               >
                 <svg
                   aria-hidden="true"
-                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
                   data-testid="CloudDownloadIcon"
                   focusable="false"
                   viewBox="0 0 24 24"
                 >
                   <path
-                    d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"
+                    d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96M17 13l-5 5-5-5h3V9h4v4z"
                   />
                 </svg>
               </span>
               Resume
-              <span
-                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
-              />
             </a>
           </div>
         </div>
       </div>
       <div
-        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-6 css-6dzwqk-MuiGrid-root"
+        class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-sm-6 css-90vct2-MuiGrid-root"
       >
         <p
-          class="MuiTypography-root MuiTypography-body1 css-1oetjkv-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-body1 css-akb5nv-MuiTypography-root"
         >
           I'm a seasoned Frontend Developer with 8 years of expertise in creating responsive and user-friendly web applications. I have a deep interest and passion for technology. I love writing and owning codes and enjoy working with people who will keep challenging you at every stage. I have strong problem solving, analytic, decision-making and excellent communication with interpersonal skills. I'm self-driven and motivated with the desire to work in a fast-paced, results-driven agile environment with varied responsibilities. I love to challenge myself to deliver these solutions with the highest quality.
         </p>

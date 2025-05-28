@@ -7,29 +7,29 @@ exports[`should verify snapshot 1`] = `
     id="certifications-section"
   >
     <h3
-      class="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom css-1oe6gg4-MuiTypography-root"
+      class="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom css-17uns2e-MuiTypography-root"
     >
       Certifications
     </h3>
     <div
-      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-6s1xft-MuiGrid-root"
+      class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row MuiGrid-spacing-xs-2 css-19bn53y-MuiGrid-root"
     >
       <div
-        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-12 MuiGrid-grid-md-6 css-kgax03-MuiGrid-root"
+        class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-md-6 MuiGrid-grid-sm-12 css-18mxzqn-MuiGrid-root"
       >
         <div
-          class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1v5z4dq-MuiPaper-root-MuiCard-root"
+          class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-196bwzp-MuiPaper-root-MuiCard-root"
           data-testid="certification-card"
         >
           <div
-            class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+            class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
           >
             <div
-              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-1y15g74-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-eg95s6-MuiTypography-root"
               data-testid="certification-title"
             >
               <a
-                class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1iwtne7-MuiTypography-root-MuiLink-root"
+                class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1orsvah-MuiTypography-root-MuiLink-root"
                 href="https://www.coursera.org/account/accomplishments/verify/6GPHWG8CB9H8"
                 rel="noreferrer"
                 style="text-decoration: none;"
@@ -39,19 +39,19 @@ exports[`should verify snapshot 1`] = `
               </a>
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body2 css-b3lvtk-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body2 css-fyxt4r-MuiTypography-root"
             >
               The world of AI has changed rapidly in the past 18 months. Large language models (LLMs) and other generative AI applications have taken the world by storm, and continue to evolve. Learnt how to utilize prompt engineering with the GPT-3.5 language model to classify and summarize restaurant reviews efficiently.
             </p>
           </div>
           <hr
-            class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+            class="MuiDivider-root MuiDivider-fullWidth css-1jpc804-MuiDivider-root"
           />
           <div
-            class="MuiCardActions-root MuiCardActions-spacing css-1vbr7to-MuiCardActions-root"
+            class="MuiCardActions-root MuiCardActions-spacing css-kchkzg-MuiCardActions-root"
           >
             <button
-              class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root Mui-disabled  css-1poohah-MuiButtonBase-root-MuiButton-root"
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-n88716-MuiButtonBase-root-MuiButton-root"
               disabled=""
               tabindex="-1"
               type="button"
@@ -59,7 +59,7 @@ exports[`should verify snapshot 1`] = `
               DeepLearning.AI | March 5, 2024
             </button>
             <a
-              class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-1uent87-MuiButtonBase-root-MuiButton-root"
               href="https://www.coursera.org/account/accomplishments/verify/6GPHWG8CB9H8"
               rel="noreferrer"
               tabindex="0"
@@ -67,11 +67,11 @@ exports[`should verify snapshot 1`] = `
             >
               View
               <span
-                class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+                class="MuiButton-icon MuiButton-endIcon MuiButton-iconSizeMedium css-1gulhci-MuiButton-endIcon"
               >
                 <svg
                   aria-hidden="true"
-                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
                   data-testid="ArrowForwardIcon"
                   focusable="false"
                   viewBox="0 0 24 24"
@@ -81,29 +81,26 @@ exports[`should verify snapshot 1`] = `
                   />
                 </svg>
               </span>
-              <span
-                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
-              />
             </a>
           </div>
         </div>
       </div>
       <div
-        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-12 MuiGrid-grid-md-6 css-kgax03-MuiGrid-root"
+        class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-md-6 MuiGrid-grid-sm-12 css-18mxzqn-MuiGrid-root"
       >
         <div
-          class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1v5z4dq-MuiPaper-root-MuiCard-root"
+          class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-196bwzp-MuiPaper-root-MuiCard-root"
           data-testid="certification-card"
         >
           <div
-            class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+            class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
           >
             <div
-              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-1y15g74-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-eg95s6-MuiTypography-root"
               data-testid="certification-title"
             >
               <a
-                class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1iwtne7-MuiTypography-root-MuiLink-root"
+                class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1orsvah-MuiTypography-root-MuiLink-root"
                 href="https://www.coursera.org/account/accomplishments/verify/5SFFMJ6PA5QU"
                 rel="noreferrer"
                 style="text-decoration: none;"
@@ -113,19 +110,19 @@ exports[`should verify snapshot 1`] = `
               </a>
             </div>
             <p
-              class="MuiTypography-root MuiTypography-body2 css-b3lvtk-MuiTypography-root"
+              class="MuiTypography-root MuiTypography-body2 css-fyxt4r-MuiTypography-root"
             >
               This is an introductory level microlearning course aimed at explaining what Generative AI is, how it is used, and how it differs from traditional machine learning methods. It also covers Google Tools to help you develop your own Gen AI apps.
             </p>
           </div>
           <hr
-            class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+            class="MuiDivider-root MuiDivider-fullWidth css-1jpc804-MuiDivider-root"
           />
           <div
-            class="MuiCardActions-root MuiCardActions-spacing css-1vbr7to-MuiCardActions-root"
+            class="MuiCardActions-root MuiCardActions-spacing css-kchkzg-MuiCardActions-root"
           >
             <button
-              class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root Mui-disabled  css-1poohah-MuiButtonBase-root-MuiButton-root"
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-n88716-MuiButtonBase-root-MuiButton-root"
               disabled=""
               tabindex="-1"
               type="button"
@@ -133,7 +130,7 @@ exports[`should verify snapshot 1`] = `
               Google Cloud | February 25, 2024
             </button>
             <a
-              class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-1uent87-MuiButtonBase-root-MuiButton-root"
               href="https://www.coursera.org/account/accomplishments/verify/5SFFMJ6PA5QU"
               rel="noreferrer"
               tabindex="0"
@@ -141,11 +138,11 @@ exports[`should verify snapshot 1`] = `
             >
               View
               <span
-                class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+                class="MuiButton-icon MuiButton-endIcon MuiButton-iconSizeMedium css-1gulhci-MuiButton-endIcon"
               >
                 <svg
                   aria-hidden="true"
-                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
                   data-testid="ArrowForwardIcon"
                   focusable="false"
                   viewBox="0 0 24 24"
@@ -155,9 +152,6 @@ exports[`should verify snapshot 1`] = `
                   />
                 </svg>
               </span>
-              <span
-                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
-              />
             </a>
           </div>
         </div>

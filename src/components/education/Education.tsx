@@ -32,10 +32,11 @@ const Education = forwardRef((_, ref) => (
       {educations.map((education) => (
         <Grid
           key={education.school + education.class}
-          item
-          md={6}
-          sm={12}
           sx={{ position: "relative" }}
+          size={{
+            md: 6,
+            sm: 12,
+          }}
         >
           <Card data-testid="education-card" variant="outlined">
             <CardContent>

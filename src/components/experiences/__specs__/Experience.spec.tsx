@@ -15,8 +15,11 @@ describe("test experiences component", () => {
       matches: predicate(query),
       media: query,
       onchange: null,
-      addListener: jest.fn(),
-      removeListener: jest.fn(),
+      addListener: jest.fn(), // for backward compatibility
+      removeListener: jest.fn(), // for backward compatibility
+      addEventListener: jest.fn(), // mock this
+      removeEventListener: jest.fn(), // and this
+      dispatchEvent: jest.fn(), // optional but good to mock
     }));
   };
 

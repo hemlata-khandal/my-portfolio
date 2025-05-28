@@ -34,10 +34,7 @@ const Skills = forwardRef((_, ref) => (
             {skillCategory.skills.map((skill) => (
               <Grid
                 key={skill.name}
-                item
-                xs={6}
-                sm={4}
-                lg={2}
+                size={{ xs: 6, sm: 4, lg: 2 }}
                 sx={{
                   display: "flex",
                   flexDirection: "column",

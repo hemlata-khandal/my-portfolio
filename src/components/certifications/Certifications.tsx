@@ -33,10 +33,11 @@ const Certifications = forwardRef((_, ref) => (
       {certifications.map((certification) => (
         <Grid
           key={certification.name}
-          item
-          md={6}
-          sm={12}
           sx={{ position: "relative" }}
+          size={{
+            md: 6,
+            sm: 12,
+          }}
         >
           <Card data-testid="certification-card" variant="outlined">
             <CardContent>

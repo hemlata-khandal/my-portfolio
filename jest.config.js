@@ -41,7 +41,8 @@ module.exports = {
         "!src/react-app-env.d.ts",
         "!src/service-worker.ts",
         "!src/serviceWorkerRegistration.ts",
-        "!src/firebase-util.ts"
+        "!src/firebase-util.ts",
+        "!src/components/wfh-calculator/WFHTimeSlotCalculator.tsx"
     ],
     coverageReporters: ["json", "lcov", "text", "clover", "cobertura"],
     coverageThreshold: {

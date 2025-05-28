@@ -8,12 +8,13 @@ const Footer = forwardRef((_, ref) => (
   <Box bgcolor="primary.main" id="contact-me-section" ref={ref}>
     <Grid container spacing={2} p={4} px={{ xs: 2, sm: 4 }}>
       <Grid
-        item
-        lg={6}
-        sm={6}
-        xs={12}
         display="flex"
         justifyContent={{ xs: "center", sm: "flex-start" }}
+        size={{
+          lg: 6,
+          sm: 6,
+          xs: 12,
+        }}
       >
         <SocialLink
           href="mailto:hemlatakhandal95@gmail.com"
@@ -22,12 +23,13 @@ const Footer = forwardRef((_, ref) => (
         />
       </Grid>
       <Grid
-        item
-        lg={6}
-        sm={6}
-        xs={12}
         display="flex"
         justifyContent={{ xs: "center", sm: "flex-start" }}
+        size={{
+          lg: 6,
+          sm: 6,
+          xs: 12,
+        }}
       >
         <SocialLink
           href="https://www.linkedin.com/in/hemlatakhandal/"
