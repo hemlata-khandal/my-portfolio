@@ -14,7 +14,7 @@ exports[`should verify snapshot 1`] = `
       >
         <a
           class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1tbkkan-MuiTypography-root-MuiLink-root"
-          href="mailto:hemlatakhandal95@gmail.com"
+          href="mailto:the.hemlata.khandal@gmail.com"
           rel="noreferrer"
           style="--Link-underlineColor: rgba(255, 255, 255, 0.4);"
           target="_blank"
@@ -34,7 +34,7 @@ exports[`should verify snapshot 1`] = `
           <p
             class="MuiTypography-root MuiTypography-body1 css-1jov4sb-MuiTypography-root"
           >
-            hemlatakhandal95@gmail.com
+            the.hemlata.khandal@gmail.com
           </p>
         </a>
       </div>
@@ -83,7 +83,7 @@ exports[`should verify snapshot 1`] = `
     <p
       class="MuiTypography-root MuiTypography-body2 css-4i1f7z-MuiTypography-root"
     >
-      © 2024 Hemlata Khandal | All Right Reserved |  v1.2.1
+      © 2026 Hemlata Khandal | All Right Reserved |  v1.2.1
     </p>
   </div>
 </DocumentFragment>

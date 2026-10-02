@@ -1,11 +1,34 @@
 import { Company } from "./company.model";
 import MejesticLogo from "../../assets/images/majestic.png";
 import CapgeminiLogo from "../../assets/images/capgemini.png";
+import InfosysLogo from "../../assets/images/infosys.png";
 
 import MajesticLogoWebp from "../../assets/images/majestic.webp";
 import CapgeminiLogoWebp from "../../assets/images/capgemini.webp";
+import InfosysLogoWebp from "../../assets/images/infosys.webp";
 
 const companies: Company[] = [
+  {
+    logo: InfosysLogo,
+    logoWeb: InfosysLogoWebp,
+    name: "Infosys Limited",
+    position: "Technology Lead",
+    location: "Bengaluru, IN",
+    description:
+      "Infosys Limited is a global leader in next-generation digital services and consulting, enabling clients across industries to navigate their digital transformation.",
+    accomplishments: [
+      "Led the Telstra AN25->AN26 re-architecture project, driving the High-Level Design (HLD) and technical direction for migrating a monolithic application to a micro-frontend architecture.",
+      "Led a team of 8 engineers across 5+ cross-functional teams, coordinating delivery, code reviews and technical mentorship.",
+      "Architected the monolith-to-micro-frontend migration using Webpack 5 Module Federation, enabling independent deployment and scaling of frontend modules.",
+      "Built modern dashboards combining Angular 17+ with Signals and React/Redux, using AG-Grid and D3.js for high-performance data visualization at scale.",
+      "Designed and integrated GraphQL and TigerGraph with Spring Boot services to power graph-based data queries across the platform.",
+      "Set up AWS S3 + CloudFront hosting with CI/CD pipelines for fast, reliable frontend deployments.",
+      "Introduced an observability framework and integrated Knowi BI for actionable reporting and monitoring.",
+      "Established a testing strategy using Jest, React Testing Library and Playwright, improving release confidence.",
+      "Scaled the architecture to support 1000x growth in data volume and concurrent usage.",
+    ],
+    duration: "Aug 2024 - Aug 2026",
+  },
   {
     logo: CapgeminiLogo,
     logoWeb: CapgeminiLogoWebp,
@@ -26,7 +49,7 @@ const companies: Company[] = [
       "Worked on existing application to implement new features using Angular, HTML, CSS and typescript.",
       "Leading a successful team to deliver the high-quality front end solutions.",
     ],
-    duration: "Apr 2022 - Present",
+    duration: "Apr 2022 - Aug 2024",
   },
   {
     logo: MejesticLogo,

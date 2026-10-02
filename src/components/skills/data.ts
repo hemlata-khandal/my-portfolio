@@ -12,6 +12,11 @@ import FirebaseLogo from "../../assets/images/firebase.png";
 import DockerLogo from "../../assets/images/docker.png";
 import GitHubLogo from "../../assets/images/github.png";
 import TSLogo from "../../assets/images/typescript.png";
+import ReactLogo from "../../assets/images/react.png";
+import ReduxLogo from "../../assets/images/redux.png";
+import AWSLogo from "../../assets/images/aws.png";
+import JenkinsLogo from "../../assets/images/jenkins.png";
+import SpringBootLogo from "../../assets/images/spring-boot.png";
 
 import AngularLogoWebp from "../../assets/images/angular.webp";
 import HTML5LogoWebp from "../../assets/images/html5.webp";
@@ -26,6 +31,11 @@ import FirebaseLogoWebp from "../../assets/images/firebase.webp";
 import DockerLogoWebp from "../../assets/images/docker.webp";
 import GitHubLogoWebp from "../../assets/images/github.webp";
 import TSLogoWebp from "../../assets/images/typescript.webp";
+import ReactLogoWebp from "../../assets/images/react.webp";
+import ReduxLogoWebp from "../../assets/images/redux.webp";
+import AWSLogoWebp from "../../assets/images/aws.webp";
+import JenkinsLogoWebp from "../../assets/images/jenkins.webp";
+import SpringBootLogoWebp from "../../assets/images/spring-boot.webp";
 
 const skills: SkillCategory[] = [
   {
@@ -51,6 +61,16 @@ const skills: SkillCategory[] = [
         logo: MaterialDesignLogo,
         logoWebp: MaterialDesignLogoWebp,
       },
+      {
+        name: "React.js",
+        logo: ReactLogo,
+        logoWebp: ReactLogoWebp,
+      },
+      {
+        name: "Redux Toolkit",
+        logo: ReduxLogo,
+        logoWebp: ReduxLogoWebp,
+      },
     ],
   },
   {
@@ -60,6 +80,11 @@ const skills: SkillCategory[] = [
         name: "Core PHP",
         logo: PHPLogo,
         logoWebp: PHPLogoWebp,
+      },
+      {
+        name: "Spring Boot",
+        logo: SpringBootLogo,
+        logoWebp: SpringBootLogoWebp,
       },
     ],
   },
@@ -111,6 +136,11 @@ const skills: SkillCategory[] = [
         logo: FirebaseLogo,
         logoWebp: FirebaseLogoWebp,
       },
+      {
+        name: "AWS",
+        logo: AWSLogo,
+        logoWebp: AWSLogoWebp,
+      },
     ],
   },
   {
@@ -120,6 +150,11 @@ const skills: SkillCategory[] = [
         name: "Docker",
         logo: DockerLogo,
         logoWebp: DockerLogoWebp,
+      },
+      {
+        name: "Jenkins",
+        logo: JenkinsLogo,
+        logoWebp: JenkinsLogoWebp,
       },
     ],
   },

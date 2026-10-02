@@ -140,6 +140,62 @@ exports[`should verify snapshot 1`] = `
               Material Design
             </p>
           </div>
+          <div
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
+          >
+            <div
+              class="MuiBox-root css-1cojkpq"
+            >
+              <picture>
+                <source
+                  srcset="test-file-stub"
+                  type="image/webp"
+                />
+                <source
+                  srcset="test-file-stub"
+                  type="image/jpeg"
+                />
+                <img
+                  alt="React.js logo"
+                  src="test-file-stub"
+                  style="max-width: 100px; max-height: 100px;"
+                />
+              </picture>
+            </div>
+            <p
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
+            >
+              React.js
+            </p>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
+          >
+            <div
+              class="MuiBox-root css-1cojkpq"
+            >
+              <picture>
+                <source
+                  srcset="test-file-stub"
+                  type="image/webp"
+                />
+                <source
+                  srcset="test-file-stub"
+                  type="image/jpeg"
+                />
+                <img
+                  alt="Redux Toolkit logo"
+                  src="test-file-stub"
+                  style="max-width: 100px; max-height: 100px;"
+                />
+              </picture>
+            </div>
+            <p
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
+            >
+              Redux Toolkit
+            </p>
+          </div>
         </div>
       </div>
     </div>
@@ -186,6 +242,34 @@ exports[`should verify snapshot 1`] = `
               class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
             >
               Core PHP
+            </p>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
+          >
+            <div
+              class="MuiBox-root css-1cojkpq"
+            >
+              <picture>
+                <source
+                  srcset="test-file-stub"
+                  type="image/webp"
+                />
+                <source
+                  srcset="test-file-stub"
+                  type="image/jpeg"
+                />
+                <img
+                  alt="Spring Boot logo"
+                  src="test-file-stub"
+                  style="max-width: 100px; max-height: 100px;"
+                />
+              </picture>
+            </div>
+            <p
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
+            >
+              Spring Boot
             </p>
           </div>
         </div>
@@ -436,6 +520,34 @@ exports[`should verify snapshot 1`] = `
               Firebase
             </p>
           </div>
+          <div
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
+          >
+            <div
+              class="MuiBox-root css-1cojkpq"
+            >
+              <picture>
+                <source
+                  srcset="test-file-stub"
+                  type="image/webp"
+                />
+                <source
+                  srcset="test-file-stub"
+                  type="image/jpeg"
+                />
+                <img
+                  alt="AWS logo"
+                  src="test-file-stub"
+                  style="max-width: 100px; max-height: 100px;"
+                />
+              </picture>
+            </div>
+            <p
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
+            >
+              AWS
+            </p>
+          </div>
         </div>
       </div>
     </div>
@@ -482,6 +594,34 @@ exports[`should verify snapshot 1`] = `
               class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
             >
               Docker
+            </p>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
+          >
+            <div
+              class="MuiBox-root css-1cojkpq"
+            >
+              <picture>
+                <source
+                  srcset="test-file-stub"
+                  type="image/webp"
+                />
+                <source
+                  srcset="test-file-stub"
+                  type="image/jpeg"
+                />
+                <img
+                  alt="Jenkins logo"
+                  src="test-file-stub"
+                  style="max-width: 100px; max-height: 100px;"
+                />
+              </picture>
+            </div>
+            <p
+              class="MuiTypography-root MuiTypography-body1 css-1xrrpwr-MuiTypography-root"
+            >
+              Jenkins
             </p>
           </div>
         </div>

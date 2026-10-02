@@ -472,15 +472,15 @@ exports[`should verify the snapshot for dark mode 1`] = `
           <div
             class="c2"
           >
-            <h5
-              class="MuiTypography-root MuiTypography-h5 c3 css-15tzbia-MuiTypography-root"
+            <p
+              class="c3"
             >
               Hemlata Khandal
-            </h5>
+            </p>
             <p
-              class="MuiTypography-root MuiTypography-body1 c4 css-f6ud1a-MuiTypography-root"
+              class="c4"
             >
-              I'm a Software
+              I'm
               <span
                 class="c5 positions"
               />
@@ -535,7 +535,7 @@ exports[`should verify the snapshot for dark mode 1`] = `
                   <p
                     class="MuiTypography-root MuiTypography-body1 css-1cqhlsq-MuiTypography-root"
                   >
-                    Senior Consultant @ Capgemini
+                    Technology Lead @ Infosys
                   </p>
                 </div>
                 <div
@@ -574,7 +574,7 @@ exports[`should verify the snapshot for dark mode 1`] = `
               <p
                 class="MuiTypography-root MuiTypography-body1 css-18a5bt3-MuiTypography-root"
               >
-                I'm a seasoned Frontend Developer with 8 years of expertise in creating responsive and user-friendly web applications. I have a deep interest and passion for technology. I love writing and owning codes and enjoy working with people who will keep challenging you at every stage. I have strong problem solving, analytic, decision-making and excellent communication with interpersonal skills. I'm self-driven and motivated with the desire to work in a fast-paced, results-driven agile environment with varied responsibilities. I love to challenge myself to deliver these solutions with the highest quality.
+                I'm a Technology Lead with over 10 years of experience architecting and delivering large-scale, high-impact web applications. Most recently, I led the technical design and execution of a monolith-to-micro-frontend re-architecture for a major telecom platform, driving the High-Level Design and leading a team of 8 engineers across 5+ cross-functional teams through the migration using Webpack 5 Module Federation, Angular 17+ with Signals, and React/Redux. I enjoy owning problems end-to-end -- from system design and stakeholder alignment down to hands-on implementation and mentoring -- and have a strong track record of scaling architectures to support rapid growth in data and traffic. I'm self-driven, detail-oriented, and thrive in fast-paced, agile environments where I can combine deep technical expertise with leadership to deliver solutions of the highest quality.
               </p>
             </div>
           </div>
@@ -599,6 +599,158 @@ exports[`should verify the snapshot for dark mode 1`] = `
           >
             Experiences
           </h3>
+          <div
+            class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1di10fm-MuiPaper-root-MuiCard-root"
+          >
+            <div
+              class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
+            >
+              <div
+                class="MuiBox-root css-out6mg"
+              >
+                <picture>
+                  <source
+                    srcset="test-file-stub"
+                    type="image/webp"
+                  />
+                  <source
+                    srcset="test-file-stub"
+                    type="image/jpeg"
+                  />
+                  <img
+                    alt="Infosys Limited Logo"
+                    src="test-file-stub"
+                    style="height: 40px;"
+                  />
+                </picture>
+                <div
+                  class="MuiBox-root css-0"
+                >
+                  <h6
+                    class="MuiTypography-root MuiTypography-subtitle1 css-1r6rfna-MuiTypography-root"
+                  >
+                    Technology Lead
+                  </h6>
+                  <h6
+                    class="MuiTypography-root MuiTypography-subtitle2 css-16394gs-MuiTypography-root"
+                  >
+                    Bengaluru, IN
+                  </h6>
+                </div>
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth css-xei66q-MuiDivider-root"
+              />
+              <p
+                class="MuiTypography-root MuiTypography-body1 css-18a5bt3-MuiTypography-root"
+              >
+                Infosys Limited is a global leader in next-generation digital services and consulting, enabling clients across industries to navigate their digital transformation.
+              </p>
+              <h6
+                class="MuiTypography-root MuiTypography-subtitle2 css-107unvr-MuiTypography-root"
+              >
+                ACCOMPLISHMENTS
+              </h6>
+              <ul>
+                <li
+                  style="text-align: justify;"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                  >
+                    Led the Telstra AN25-&gt;AN26 re-architecture project, driving the High-Level Design (HLD) and technical direction for migrating a monolithic application to a micro-frontend architecture.
+                  </p>
+                </li>
+                <li
+                  style="text-align: justify;"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                  >
+                    Led a team of 8 engineers across 5+ cross-functional teams, coordinating delivery, code reviews and technical mentorship.
+                  </p>
+                </li>
+                <li
+                  style="text-align: justify;"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                  >
+                    Architected the monolith-to-micro-frontend migration using Webpack 5 Module Federation, enabling independent deployment and scaling of frontend modules.
+                  </p>
+                </li>
+                <li
+                  style="text-align: justify;"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                  >
+                    Built modern dashboards combining Angular 17+ with Signals and React/Redux, using AG-Grid and D3.js for high-performance data visualization at scale.
+                  </p>
+                </li>
+                <li
+                  style="text-align: justify;"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                  >
+                    Designed and integrated GraphQL and TigerGraph with Spring Boot services to power graph-based data queries across the platform.
+                  </p>
+                </li>
+                <li
+                  style="text-align: justify;"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                  >
+                    Set up AWS S3 + CloudFront hosting with CI/CD pipelines for fast, reliable frontend deployments.
+                  </p>
+                </li>
+                <li
+                  style="text-align: justify;"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                  >
+                    Introduced an observability framework and integrated Knowi BI for actionable reporting and monitoring.
+                  </p>
+                </li>
+                <li
+                  style="text-align: justify;"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                  >
+                    Established a testing strategy using Jest, React Testing Library and Playwright, improving release confidence.
+                  </p>
+                </li>
+                <li
+                  style="text-align: justify;"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                  >
+                    Scaled the architecture to support 1000x growth in data volume and concurrent usage.
+                  </p>
+                </li>
+              </ul>
+            </div>
+            <hr
+              class="MuiDivider-root MuiDivider-fullWidth css-x148m1-MuiDivider-root"
+            />
+            <div
+              class="MuiCardActions-root MuiCardActions-spacing css-1q4nm6f-MuiCardActions-root"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-1hdng7b-MuiButtonBase-root-MuiButton-root"
+                disabled=""
+                tabindex="-1"
+                type="button"
+              >
+                Aug 2024 - Aug 2026
+              </button>
+            </div>
+          </div>
           <div
             class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1di10fm-MuiPaper-root-MuiCard-root"
           >
@@ -756,7 +908,7 @@ exports[`should verify the snapshot for dark mode 1`] = `
                 tabindex="-1"
                 type="button"
               >
-                Apr 2022 - Present
+                Apr 2022 - Aug 2024
               </button>
             </div>
           </div>
@@ -1017,6 +1169,62 @@ exports[`should verify the snapshot for dark mode 1`] = `
                     Material Design
                   </p>
                 </div>
+                <div
+                  class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
+                >
+                  <div
+                    class="MuiBox-root css-1cojkpq"
+                  >
+                    <picture>
+                      <source
+                        srcset="test-file-stub"
+                        type="image/webp"
+                      />
+                      <source
+                        srcset="test-file-stub"
+                        type="image/jpeg"
+                      />
+                      <img
+                        alt="React.js logo"
+                        src="test-file-stub"
+                        style="max-width: 100px; max-height: 100px;"
+                      />
+                    </picture>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-1kw0wdt-MuiTypography-root"
+                  >
+                    React.js
+                  </p>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
+                >
+                  <div
+                    class="MuiBox-root css-1cojkpq"
+                  >
+                    <picture>
+                      <source
+                        srcset="test-file-stub"
+                        type="image/webp"
+                      />
+                      <source
+                        srcset="test-file-stub"
+                        type="image/jpeg"
+                      />
+                      <img
+                        alt="Redux Toolkit logo"
+                        src="test-file-stub"
+                        style="max-width: 100px; max-height: 100px;"
+                      />
+                    </picture>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-1kw0wdt-MuiTypography-root"
+                  >
+                    Redux Toolkit
+                  </p>
+                </div>
               </div>
             </div>
           </div>
@@ -1063,6 +1271,34 @@ exports[`should verify the snapshot for dark mode 1`] = `
                     class="MuiTypography-root MuiTypography-body1 css-1kw0wdt-MuiTypography-root"
                   >
                     Core PHP
+                  </p>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
+                >
+                  <div
+                    class="MuiBox-root css-1cojkpq"
+                  >
+                    <picture>
+                      <source
+                        srcset="test-file-stub"
+                        type="image/webp"
+                      />
+                      <source
+                        srcset="test-file-stub"
+                        type="image/jpeg"
+                      />
+                      <img
+                        alt="Spring Boot logo"
+                        src="test-file-stub"
+                        style="max-width: 100px; max-height: 100px;"
+                      />
+                    </picture>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-1kw0wdt-MuiTypography-root"
+                  >
+                    Spring Boot
                   </p>
                 </div>
               </div>
@@ -1313,6 +1549,34 @@ exports[`should verify the snapshot for dark mode 1`] = `
                     Firebase
                   </p>
                 </div>
+                <div
+                  class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
+                >
+                  <div
+                    class="MuiBox-root css-1cojkpq"
+                  >
+                    <picture>
+                      <source
+                        srcset="test-file-stub"
+                        type="image/webp"
+                      />
+                      <source
+                        srcset="test-file-stub"
+                        type="image/jpeg"
+                      />
+                      <img
+                        alt="AWS logo"
+                        src="test-file-stub"
+                        style="max-width: 100px; max-height: 100px;"
+                      />
+                    </picture>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-1kw0wdt-MuiTypography-root"
+                  >
+                    AWS
+                  </p>
+                </div>
               </div>
             </div>
           </div>
@@ -1359,6 +1623,34 @@ exports[`should verify the snapshot for dark mode 1`] = `
                     class="MuiTypography-root MuiTypography-body1 css-1kw0wdt-MuiTypography-root"
                   >
                     Docker
+                  </p>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
+                >
+                  <div
+                    class="MuiBox-root css-1cojkpq"
+                  >
+                    <picture>
+                      <source
+                        srcset="test-file-stub"
+                        type="image/webp"
+                      />
+                      <source
+                        srcset="test-file-stub"
+                        type="image/jpeg"
+                      />
+                      <img
+                        alt="Jenkins logo"
+                        src="test-file-stub"
+                        style="max-width: 100px; max-height: 100px;"
+                      />
+                    </picture>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-1kw0wdt-MuiTypography-root"
+                  >
+                    Jenkins
                   </p>
                 </div>
               </div>
@@ -1550,6 +1842,148 @@ exports[`should verify the snapshot for dark mode 1`] = `
                   <a
                     class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-1hdng7b-MuiButtonBase-root-MuiButton-root"
                     href="https://www.coursera.org/account/accomplishments/verify/5SFFMJ6PA5QU"
+                    rel="noreferrer"
+                    tabindex="0"
+                    target="_blank"
+                  >
+                    View
+                    <span
+                      class="MuiButton-icon MuiButton-endIcon MuiButton-iconSizeMedium css-1gulhci-MuiButton-endIcon"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+                        data-testid="ArrowForwardIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+                        />
+                      </svg>
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-md-6 MuiGrid-grid-sm-12 css-18mxzqn-MuiGrid-root"
+            >
+              <div
+                class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1um5y1s-MuiPaper-root-MuiCard-root"
+                data-testid="certification-card"
+              >
+                <div
+                  class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
+                >
+                  <div
+                    class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-p0mev3-MuiTypography-root"
+                    data-testid="certification-title"
+                  >
+                    <a
+                      class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-kmfkw3-MuiTypography-root-MuiLink-root"
+                      href="https://www.linkedin.com/in/hemlatakhandal/"
+                      rel="noreferrer"
+                      style="text-decoration: none;"
+                      target="_blank"
+                    >
+                      Foundations of Project Management
+                    </a>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 css-1yf8g6d-MuiTypography-root"
+                  >
+                    Covered the foundational concepts, terminology and skills needed for a career in project management, including the project life cycle, project management roles, and core organizational structures and values.
+                  </p>
+                </div>
+                <hr
+                  class="MuiDivider-root MuiDivider-fullWidth css-x148m1-MuiDivider-root"
+                />
+                <div
+                  class="MuiCardActions-root MuiCardActions-spacing css-kchkzg-MuiCardActions-root"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-1g5ox6g-MuiButtonBase-root-MuiButton-root"
+                    disabled=""
+                    tabindex="-1"
+                    type="button"
+                  >
+                    Google | 2024
+                  </button>
+                  <a
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-1hdng7b-MuiButtonBase-root-MuiButton-root"
+                    href="https://www.linkedin.com/in/hemlatakhandal/"
+                    rel="noreferrer"
+                    tabindex="0"
+                    target="_blank"
+                  >
+                    View
+                    <span
+                      class="MuiButton-icon MuiButton-endIcon MuiButton-iconSizeMedium css-1gulhci-MuiButton-endIcon"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+                        data-testid="ArrowForwardIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+                        />
+                      </svg>
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-md-6 MuiGrid-grid-sm-12 css-18mxzqn-MuiGrid-root"
+            >
+              <div
+                class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1um5y1s-MuiPaper-root-MuiCard-root"
+                data-testid="certification-card"
+              >
+                <div
+                  class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
+                >
+                  <div
+                    class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-p0mev3-MuiTypography-root"
+                    data-testid="certification-title"
+                  >
+                    <a
+                      class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-kmfkw3-MuiTypography-root-MuiLink-root"
+                      href="https://www.linkedin.com/in/hemlatakhandal/"
+                      rel="noreferrer"
+                      style="text-decoration: none;"
+                      target="_blank"
+                    >
+                      Project Initiation: Starting a Successful Project
+                    </a>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 css-1yf8g6d-MuiTypography-root"
+                  >
+                    Focused on the first phase of the project life cycle -- defining project goals, scope, deliverables, and stakeholders, and setting up a project for successful execution.
+                  </p>
+                </div>
+                <hr
+                  class="MuiDivider-root MuiDivider-fullWidth css-x148m1-MuiDivider-root"
+                />
+                <div
+                  class="MuiCardActions-root MuiCardActions-spacing css-kchkzg-MuiCardActions-root"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-1g5ox6g-MuiButtonBase-root-MuiButton-root"
+                    disabled=""
+                    tabindex="-1"
+                    type="button"
+                  >
+                    Google | 2024
+                  </button>
+                  <a
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-1hdng7b-MuiButtonBase-root-MuiButton-root"
+                    href="https://www.linkedin.com/in/hemlatakhandal/"
                     rel="noreferrer"
                     tabindex="0"
                     target="_blank"
@@ -1958,7 +2392,7 @@ exports[`should verify the snapshot for dark mode 1`] = `
             >
               <a
                 class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1tbkkan-MuiTypography-root-MuiLink-root"
-                href="mailto:hemlatakhandal95@gmail.com"
+                href="mailto:the.hemlata.khandal@gmail.com"
                 rel="noreferrer"
                 style="--Link-underlineColor: rgba(255, 255, 255, 0.4);"
                 target="_blank"
@@ -1978,7 +2412,7 @@ exports[`should verify the snapshot for dark mode 1`] = `
                 <p
                   class="MuiTypography-root MuiTypography-body1 css-aumeog-MuiTypography-root"
                 >
-                  hemlatakhandal95@gmail.com
+                  the.hemlata.khandal@gmail.com
                 </p>
               </a>
             </div>
@@ -2027,7 +2461,7 @@ exports[`should verify the snapshot for dark mode 1`] = `
           <p
             class="MuiTypography-root MuiTypography-body2 css-1fc38ia-MuiTypography-root"
           >
-            © 2024 Hemlata Khandal | All Right Reserved |  v1.2.1
+            © 2026 Hemlata Khandal | All Right Reserved |  v1.2.1
           </p>
         </div>
       </div>
@@ -2252,15 +2686,15 @@ exports[`should verify the snapshot for light mode 1`] = `
           <div
             class="c2"
           >
-            <h5
-              class="MuiTypography-root MuiTypography-h5 c3 css-15tzbia-MuiTypography-root"
+            <p
+              class="c3"
             >
               Hemlata Khandal
-            </h5>
+            </p>
             <p
-              class="MuiTypography-root MuiTypography-body1 c4 css-f6ud1a-MuiTypography-root"
+              class="c4"
             >
-              I'm a Software
+              I'm
               <span
                 class="c5 positions"
               />
@@ -2315,7 +2749,7 @@ exports[`should verify the snapshot for light mode 1`] = `
                   <p
                     class="MuiTypography-root MuiTypography-body1 css-rspj0m-MuiTypography-root"
                   >
-                    Senior Consultant @ Capgemini
+                    Technology Lead @ Infosys
                   </p>
                 </div>
                 <div
@@ -2354,7 +2788,7 @@ exports[`should verify the snapshot for light mode 1`] = `
               <p
                 class="MuiTypography-root MuiTypography-body1 css-18a5bt3-MuiTypography-root"
               >
-                I'm a seasoned Frontend Developer with 8 years of expertise in creating responsive and user-friendly web applications. I have a deep interest and passion for technology. I love writing and owning codes and enjoy working with people who will keep challenging you at every stage. I have strong problem solving, analytic, decision-making and excellent communication with interpersonal skills. I'm self-driven and motivated with the desire to work in a fast-paced, results-driven agile environment with varied responsibilities. I love to challenge myself to deliver these solutions with the highest quality.
+                I'm a Technology Lead with over 10 years of experience architecting and delivering large-scale, high-impact web applications. Most recently, I led the technical design and execution of a monolith-to-micro-frontend re-architecture for a major telecom platform, driving the High-Level Design and leading a team of 8 engineers across 5+ cross-functional teams through the migration using Webpack 5 Module Federation, Angular 17+ with Signals, and React/Redux. I enjoy owning problems end-to-end -- from system design and stakeholder alignment down to hands-on implementation and mentoring -- and have a strong track record of scaling architectures to support rapid growth in data and traffic. I'm self-driven, detail-oriented, and thrive in fast-paced, agile environments where I can combine deep technical expertise with leadership to deliver solutions of the highest quality.
               </p>
             </div>
           </div>
@@ -2391,7 +2825,186 @@ exports[`should verify the snapshot for light mode 1`] = `
                 <div
                   class="MuiBox-root css-v7v99c"
                 >
-                  Apr 2022 - Present
+                  Aug 2024 - Aug 2026
+                </div>
+              </div>
+              <div
+                class="MuiTimelineSeparator-root css-1muvgbz-MuiTimelineSeparator-root"
+              >
+                <span
+                  class="MuiTimelineConnector-root css-1ami7lv-MuiTimelineConnector-root"
+                />
+                <span
+                  class="MuiTimelineDot-root MuiTimelineDot-filled MuiTimelineDot-filledPrimary css-18aap9a-MuiTimelineDot-root"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+                    data-testid="AccessTimeFilledIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2m3.3 14.71L11 12.41V7h2v4.59l3.71 3.71z"
+                    />
+                  </svg>
+                </span>
+                <span
+                  class="MuiTimelineConnector-root css-1ami7lv-MuiTimelineConnector-root"
+                />
+              </div>
+              <div
+                class="MuiTypography-root MuiTypography-body1 MuiTimelineContent-root MuiTimelineContent-positionRight css-vyg1xp-MuiTypography-root-MuiTimelineContent-root"
+              >
+                <div
+                  class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-10upszk-MuiPaper-root-MuiCard-root"
+                >
+                  <div
+                    class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
+                  >
+                    <div
+                      class="MuiBox-root css-out6mg"
+                    >
+                      <picture>
+                        <source
+                          srcset="test-file-stub"
+                          type="image/webp"
+                        />
+                        <source
+                          srcset="test-file-stub"
+                          type="image/jpeg"
+                        />
+                        <img
+                          alt="Infosys Limited Logo"
+                          src="test-file-stub"
+                          style="height: 40px;"
+                        />
+                      </picture>
+                      <div
+                        class="MuiBox-root css-0"
+                      >
+                        <h6
+                          class="MuiTypography-root MuiTypography-subtitle1 css-1r6rfna-MuiTypography-root"
+                        >
+                          Technology Lead
+                        </h6>
+                        <h6
+                          class="MuiTypography-root MuiTypography-subtitle2 css-16394gs-MuiTypography-root"
+                        >
+                          Bengaluru, IN
+                        </h6>
+                      </div>
+                    </div>
+                    <hr
+                      class="MuiDivider-root MuiDivider-fullWidth css-zzw4lh-MuiDivider-root"
+                    />
+                    <p
+                      class="MuiTypography-root MuiTypography-body1 css-18a5bt3-MuiTypography-root"
+                    >
+                      Infosys Limited is a global leader in next-generation digital services and consulting, enabling clients across industries to navigate their digital transformation.
+                    </p>
+                    <h6
+                      class="MuiTypography-root MuiTypography-subtitle2 css-107unvr-MuiTypography-root"
+                    >
+                      ACCOMPLISHMENTS
+                    </h6>
+                    <ul>
+                      <li
+                        style="text-align: justify;"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                        >
+                          Led the Telstra AN25-&gt;AN26 re-architecture project, driving the High-Level Design (HLD) and technical direction for migrating a monolithic application to a micro-frontend architecture.
+                        </p>
+                      </li>
+                      <li
+                        style="text-align: justify;"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                        >
+                          Led a team of 8 engineers across 5+ cross-functional teams, coordinating delivery, code reviews and technical mentorship.
+                        </p>
+                      </li>
+                      <li
+                        style="text-align: justify;"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                        >
+                          Architected the monolith-to-micro-frontend migration using Webpack 5 Module Federation, enabling independent deployment and scaling of frontend modules.
+                        </p>
+                      </li>
+                      <li
+                        style="text-align: justify;"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                        >
+                          Built modern dashboards combining Angular 17+ with Signals and React/Redux, using AG-Grid and D3.js for high-performance data visualization at scale.
+                        </p>
+                      </li>
+                      <li
+                        style="text-align: justify;"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                        >
+                          Designed and integrated GraphQL and TigerGraph with Spring Boot services to power graph-based data queries across the platform.
+                        </p>
+                      </li>
+                      <li
+                        style="text-align: justify;"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                        >
+                          Set up AWS S3 + CloudFront hosting with CI/CD pipelines for fast, reliable frontend deployments.
+                        </p>
+                      </li>
+                      <li
+                        style="text-align: justify;"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                        >
+                          Introduced an observability framework and integrated Knowi BI for actionable reporting and monitoring.
+                        </p>
+                      </li>
+                      <li
+                        style="text-align: justify;"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                        >
+                          Established a testing strategy using Jest, React Testing Library and Playwright, improving release confidence.
+                        </p>
+                      </li>
+                      <li
+                        style="text-align: justify;"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 css-634y3l-MuiTypography-root"
+                        >
+                          Scaled the architecture to support 1000x growth in data volume and concurrent usage.
+                        </p>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="MuiTimelineItem-root MuiTimelineItem-positionRight css-ny8qih-MuiTimelineItem-root"
+            >
+              <div
+                class="MuiTypography-root MuiTypography-body2 MuiTimelineOppositeContent-root MuiTimelineOppositeContent-positionRight css-1qlmfi0-MuiTypography-root-MuiTimelineOppositeContent-root"
+              >
+                <div
+                  class="MuiBox-root css-v7v99c"
+                >
+                  Apr 2022 - Aug 2024
                 </div>
               </div>
               <div
@@ -2855,6 +3468,62 @@ exports[`should verify the snapshot for light mode 1`] = `
                     Material Design
                   </p>
                 </div>
+                <div
+                  class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
+                >
+                  <div
+                    class="MuiBox-root css-1cojkpq"
+                  >
+                    <picture>
+                      <source
+                        srcset="test-file-stub"
+                        type="image/webp"
+                      />
+                      <source
+                        srcset="test-file-stub"
+                        type="image/jpeg"
+                      />
+                      <img
+                        alt="React.js logo"
+                        src="test-file-stub"
+                        style="max-width: 100px; max-height: 100px;"
+                      />
+                    </picture>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-1kw0wdt-MuiTypography-root"
+                  >
+                    React.js
+                  </p>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
+                >
+                  <div
+                    class="MuiBox-root css-1cojkpq"
+                  >
+                    <picture>
+                      <source
+                        srcset="test-file-stub"
+                        type="image/webp"
+                      />
+                      <source
+                        srcset="test-file-stub"
+                        type="image/jpeg"
+                      />
+                      <img
+                        alt="Redux Toolkit logo"
+                        src="test-file-stub"
+                        style="max-width: 100px; max-height: 100px;"
+                      />
+                    </picture>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-1kw0wdt-MuiTypography-root"
+                  >
+                    Redux Toolkit
+                  </p>
+                </div>
               </div>
             </div>
           </div>
@@ -2901,6 +3570,34 @@ exports[`should verify the snapshot for light mode 1`] = `
                     class="MuiTypography-root MuiTypography-body1 css-1kw0wdt-MuiTypography-root"
                   >
                     Core PHP
+                  </p>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
+                >
+                  <div
+                    class="MuiBox-root css-1cojkpq"
+                  >
+                    <picture>
+                      <source
+                        srcset="test-file-stub"
+                        type="image/webp"
+                      />
+                      <source
+                        srcset="test-file-stub"
+                        type="image/jpeg"
+                      />
+                      <img
+                        alt="Spring Boot logo"
+                        src="test-file-stub"
+                        style="max-width: 100px; max-height: 100px;"
+                      />
+                    </picture>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-1kw0wdt-MuiTypography-root"
+                  >
+                    Spring Boot
                   </p>
                 </div>
               </div>
@@ -3151,6 +3848,34 @@ exports[`should verify the snapshot for light mode 1`] = `
                     Firebase
                   </p>
                 </div>
+                <div
+                  class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
+                >
+                  <div
+                    class="MuiBox-root css-1cojkpq"
+                  >
+                    <picture>
+                      <source
+                        srcset="test-file-stub"
+                        type="image/webp"
+                      />
+                      <source
+                        srcset="test-file-stub"
+                        type="image/jpeg"
+                      />
+                      <img
+                        alt="AWS logo"
+                        src="test-file-stub"
+                        style="max-width: 100px; max-height: 100px;"
+                      />
+                    </picture>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-1kw0wdt-MuiTypography-root"
+                  >
+                    AWS
+                  </p>
+                </div>
               </div>
             </div>
           </div>
@@ -3197,6 +3922,34 @@ exports[`should verify the snapshot for light mode 1`] = `
                     class="MuiTypography-root MuiTypography-body1 css-1kw0wdt-MuiTypography-root"
                   >
                     Docker
+                  </p>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-2 css-9ov1au-MuiGrid-root"
+                >
+                  <div
+                    class="MuiBox-root css-1cojkpq"
+                  >
+                    <picture>
+                      <source
+                        srcset="test-file-stub"
+                        type="image/webp"
+                      />
+                      <source
+                        srcset="test-file-stub"
+                        type="image/jpeg"
+                      />
+                      <img
+                        alt="Jenkins logo"
+                        src="test-file-stub"
+                        style="max-width: 100px; max-height: 100px;"
+                      />
+                    </picture>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-1kw0wdt-MuiTypography-root"
+                  >
+                    Jenkins
                   </p>
                 </div>
               </div>
@@ -3388,6 +4141,148 @@ exports[`should verify the snapshot for light mode 1`] = `
                   <a
                     class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-drnp4x-MuiButtonBase-root-MuiButton-root"
                     href="https://www.coursera.org/account/accomplishments/verify/5SFFMJ6PA5QU"
+                    rel="noreferrer"
+                    tabindex="0"
+                    target="_blank"
+                  >
+                    View
+                    <span
+                      class="MuiButton-icon MuiButton-endIcon MuiButton-iconSizeMedium css-1gulhci-MuiButton-endIcon"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+                        data-testid="ArrowForwardIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+                        />
+                      </svg>
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-md-6 MuiGrid-grid-sm-12 css-18mxzqn-MuiGrid-root"
+            >
+              <div
+                class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-196bwzp-MuiPaper-root-MuiCard-root"
+                data-testid="certification-card"
+              >
+                <div
+                  class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
+                >
+                  <div
+                    class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-p0mev3-MuiTypography-root"
+                    data-testid="certification-title"
+                  >
+                    <a
+                      class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-kmfkw3-MuiTypography-root-MuiLink-root"
+                      href="https://www.linkedin.com/in/hemlatakhandal/"
+                      rel="noreferrer"
+                      style="text-decoration: none;"
+                      target="_blank"
+                    >
+                      Foundations of Project Management
+                    </a>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 css-mbmcj4-MuiTypography-root"
+                  >
+                    Covered the foundational concepts, terminology and skills needed for a career in project management, including the project life cycle, project management roles, and core organizational structures and values.
+                  </p>
+                </div>
+                <hr
+                  class="MuiDivider-root MuiDivider-fullWidth css-1jpc804-MuiDivider-root"
+                />
+                <div
+                  class="MuiCardActions-root MuiCardActions-spacing css-kchkzg-MuiCardActions-root"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-syw3a5-MuiButtonBase-root-MuiButton-root"
+                    disabled=""
+                    tabindex="-1"
+                    type="button"
+                  >
+                    Google | 2024
+                  </button>
+                  <a
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-drnp4x-MuiButtonBase-root-MuiButton-root"
+                    href="https://www.linkedin.com/in/hemlatakhandal/"
+                    rel="noreferrer"
+                    tabindex="0"
+                    target="_blank"
+                  >
+                    View
+                    <span
+                      class="MuiButton-icon MuiButton-endIcon MuiButton-iconSizeMedium css-1gulhci-MuiButton-endIcon"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+                        data-testid="ArrowForwardIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+                        />
+                      </svg>
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-md-6 MuiGrid-grid-sm-12 css-18mxzqn-MuiGrid-root"
+            >
+              <div
+                class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-196bwzp-MuiPaper-root-MuiCard-root"
+                data-testid="certification-card"
+              >
+                <div
+                  class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
+                >
+                  <div
+                    class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-p0mev3-MuiTypography-root"
+                    data-testid="certification-title"
+                  >
+                    <a
+                      class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-kmfkw3-MuiTypography-root-MuiLink-root"
+                      href="https://www.linkedin.com/in/hemlatakhandal/"
+                      rel="noreferrer"
+                      style="text-decoration: none;"
+                      target="_blank"
+                    >
+                      Project Initiation: Starting a Successful Project
+                    </a>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 css-mbmcj4-MuiTypography-root"
+                  >
+                    Focused on the first phase of the project life cycle -- defining project goals, scope, deliverables, and stakeholders, and setting up a project for successful execution.
+                  </p>
+                </div>
+                <hr
+                  class="MuiDivider-root MuiDivider-fullWidth css-1jpc804-MuiDivider-root"
+                />
+                <div
+                  class="MuiCardActions-root MuiCardActions-spacing css-kchkzg-MuiCardActions-root"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-syw3a5-MuiButtonBase-root-MuiButton-root"
+                    disabled=""
+                    tabindex="-1"
+                    type="button"
+                  >
+                    Google | 2024
+                  </button>
+                  <a
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-drnp4x-MuiButtonBase-root-MuiButton-root"
+                    href="https://www.linkedin.com/in/hemlatakhandal/"
                     rel="noreferrer"
                     tabindex="0"
                     target="_blank"
@@ -3796,7 +4691,7 @@ exports[`should verify the snapshot for light mode 1`] = `
             >
               <a
                 class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1tbkkan-MuiTypography-root-MuiLink-root"
-                href="mailto:hemlatakhandal95@gmail.com"
+                href="mailto:the.hemlata.khandal@gmail.com"
                 rel="noreferrer"
                 style="--Link-underlineColor: rgba(255, 255, 255, 0.4);"
                 target="_blank"
@@ -3816,7 +4711,7 @@ exports[`should verify the snapshot for light mode 1`] = `
                 <p
                   class="MuiTypography-root MuiTypography-body1 css-aumeog-MuiTypography-root"
                 >
-                  hemlatakhandal95@gmail.com
+                  the.hemlata.khandal@gmail.com
                 </p>
               </a>
             </div>
@@ -3865,7 +4760,7 @@ exports[`should verify the snapshot for light mode 1`] = `
           <p
             class="MuiTypography-root MuiTypography-body2 css-1fc38ia-MuiTypography-root"
           >
-            © 2024 Hemlata Khandal | All Right Reserved |  v1.2.1
+            © 2026 Hemlata Khandal | All Right Reserved |  v1.2.1
           </p>
         </div>
       </div>

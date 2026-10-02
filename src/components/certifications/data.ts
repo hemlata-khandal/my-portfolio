@@ -17,6 +17,22 @@ const certifications: Certification[] = [
       "This is an introductory level microlearning course aimed at explaining what Generative AI is, how it is used, and how it differs from traditional machine learning methods. It also covers Google Tools to help you develop your own Gen AI apps.",
     url: "https://www.coursera.org/account/accomplishments/verify/5SFFMJ6PA5QU",
   },
+  {
+    name: "Foundations of Project Management",
+    vendor: "Google",
+    duration: "2024",
+    description:
+      "Covered the foundational concepts, terminology and skills needed for a career in project management, including the project life cycle, project management roles, and core organizational structures and values.",
+    url: "https://www.linkedin.com/in/hemlatakhandal/",
+  },
+  {
+    name: "Project Initiation: Starting a Successful Project",
+    vendor: "Google",
+    duration: "2024",
+    description:
+      "Focused on the first phase of the project life cycle -- defining project goals, scope, deliverables, and stakeholders, and setting up a project for successful execution.",
+    url: "https://www.linkedin.com/in/hemlatakhandal/",
+  },
 ];
 
 export default certifications;

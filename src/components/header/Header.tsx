@@ -1,4 +1,3 @@
-import { Typography } from "@mui/material";
 import React, { useEffect } from "react";
 import styled from "styled-components";
 import Typed from "typed.js";
@@ -27,7 +26,7 @@ const Content = styled.div`
   }
 `;
 
-const StyledCaption = styled(Typography)`
+const StyledCaption = styled.p`
   font-size: 3rem;
   color: white;
   text-align: center;
@@ -59,7 +58,7 @@ const Overlay = styled.div`
   }
 `;
 
-const StyledName = styled(Typography)`
+const StyledName = styled.p`
   font-size: 5rem;
   color: white;
   text-align: center;
@@ -73,7 +72,12 @@ const StyledName = styled(Typography)`
 const Header: React.FunctionComponent = () => {
   useEffect(() => {
     const typed = new Typed(".positions", {
-      strings: ["Developer", "Architect", "Engineer", "Consultant"],
+      strings: [
+        "Engineering Lead",
+        "Frontend Architect",
+        "Staff Engineer",
+        "Technical Lead",
+      ],
       startDelay: 300,
       typeSpeed: 130,
       backSpeed: 50,
@@ -91,9 +95,9 @@ const Header: React.FunctionComponent = () => {
     <StyledWrapper>
       <Overlay />
       <Content>
-        <StyledName variant="h5">Hemlata Khandal</StyledName>
+        <StyledName>Hemlata Khandal</StyledName>
         <StyledCaption>
-          I&apos;m a Software
+          I&apos;m
           <StyledSpan className="positions" />
         </StyledCaption>
       </Content>

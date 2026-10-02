@@ -17,9 +17,9 @@ const Footer = forwardRef((_, ref) => (
         }}
       >
         <SocialLink
-          href="mailto:hemlatakhandal95@gmail.com"
+          href="mailto:the.hemlata.khandal@gmail.com"
           startIcon={<Email />}
-          text="hemlatakhandal95@gmail.com"
+          text="the.hemlata.khandal@gmail.com"
         />
       </Grid>
       <Grid
@@ -64,7 +64,7 @@ const Footer = forwardRef((_, ref) => (
       variant="body2"
       color="white"
     >
-      © 2024 Hemlata Khandal | All Right Reserved | &nbsp;
+      © 2026 Hemlata Khandal | All Right Reserved | &nbsp;
       {`v${AppInfo.version}`}
     </Typography>
   </Box>

@@ -156,6 +156,148 @@ exports[`should verify snapshot 1`] = `
           </div>
         </div>
       </div>
+      <div
+        class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-md-6 MuiGrid-grid-sm-12 css-18mxzqn-MuiGrid-root"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-196bwzp-MuiPaper-root-MuiCard-root"
+          data-testid="certification-card"
+        >
+          <div
+            class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
+          >
+            <div
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-eg95s6-MuiTypography-root"
+              data-testid="certification-title"
+            >
+              <a
+                class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1orsvah-MuiTypography-root-MuiLink-root"
+                href="https://www.linkedin.com/in/hemlatakhandal/"
+                rel="noreferrer"
+                style="text-decoration: none;"
+                target="_blank"
+              >
+                Foundations of Project Management
+              </a>
+            </div>
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-fyxt4r-MuiTypography-root"
+            >
+              Covered the foundational concepts, terminology and skills needed for a career in project management, including the project life cycle, project management roles, and core organizational structures and values.
+            </p>
+          </div>
+          <hr
+            class="MuiDivider-root MuiDivider-fullWidth css-1jpc804-MuiDivider-root"
+          />
+          <div
+            class="MuiCardActions-root MuiCardActions-spacing css-kchkzg-MuiCardActions-root"
+          >
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-n88716-MuiButtonBase-root-MuiButton-root"
+              disabled=""
+              tabindex="-1"
+              type="button"
+            >
+              Google | 2024
+            </button>
+            <a
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-1uent87-MuiButtonBase-root-MuiButton-root"
+              href="https://www.linkedin.com/in/hemlatakhandal/"
+              rel="noreferrer"
+              tabindex="0"
+              target="_blank"
+            >
+              View
+              <span
+                class="MuiButton-icon MuiButton-endIcon MuiButton-iconSizeMedium css-1gulhci-MuiButton-endIcon"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+                  data-testid="ArrowForwardIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+                  />
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-md-6 MuiGrid-grid-sm-12 css-18mxzqn-MuiGrid-root"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-196bwzp-MuiPaper-root-MuiCard-root"
+          data-testid="certification-card"
+        >
+          <div
+            class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
+          >
+            <div
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-eg95s6-MuiTypography-root"
+              data-testid="certification-title"
+            >
+              <a
+                class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1orsvah-MuiTypography-root-MuiLink-root"
+                href="https://www.linkedin.com/in/hemlatakhandal/"
+                rel="noreferrer"
+                style="text-decoration: none;"
+                target="_blank"
+              >
+                Project Initiation: Starting a Successful Project
+              </a>
+            </div>
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-fyxt4r-MuiTypography-root"
+            >
+              Focused on the first phase of the project life cycle -- defining project goals, scope, deliverables, and stakeholders, and setting up a project for successful execution.
+            </p>
+          </div>
+          <hr
+            class="MuiDivider-root MuiDivider-fullWidth css-1jpc804-MuiDivider-root"
+          />
+          <div
+            class="MuiCardActions-root MuiCardActions-spacing css-kchkzg-MuiCardActions-root"
+          >
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-n88716-MuiButtonBase-root-MuiButton-root"
+              disabled=""
+              tabindex="-1"
+              type="button"
+            >
+              Google | 2024
+            </button>
+            <a
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-1uent87-MuiButtonBase-root-MuiButton-root"
+              href="https://www.linkedin.com/in/hemlatakhandal/"
+              rel="noreferrer"
+              tabindex="0"
+              target="_blank"
+            >
+              View
+              <span
+                class="MuiButton-icon MuiButton-endIcon MuiButton-iconSizeMedium css-1gulhci-MuiButton-endIcon"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+                  data-testid="ArrowForwardIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+                  />
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </DocumentFragment>
